@@ -49,26 +49,214 @@ Final Grades
 
 I will determine your final grade more or less as follows:
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Written work | 70% |
-| Oral presentation | 10% |
-| Quizzes | 10% |
-| Attendance, attitude and participation (both class and tutorials) | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written work
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, attitude and participation (both class and tutorials)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2-4 | Jane Austen | &nbsp; |
-| 5 | Workshop | &nbsp; |
-| 6-7 | Sir Walter Scott | Essay 1 due in Ses #6 |
-| 8 | Workshop | &nbsp; |
-| 9-11 | Mary Shelley |  {{< br >}}{{< br >}} Essay 2 due in Ses #9 {{< br >}}{{< br >}} Revision due in Ses #12 {{< br >}}{{< br >}}  |
-| 12-14 | Herman Melville | &nbsp; |
-| 15-16 | Gustave Flaubert | Essay 3 due in Ses #15 |
-| 17-19 | Kate Chopin | &nbsp; |
-| 20-24 | Virginia Woolf | Essay 4 due in Ses #20 |
-| 25-26 | Alistair MacLeod | Essay 5 and final portfolio due in Ses #26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Sir Walter Scott
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due in Ses #6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Shelley
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Essay 2 due in Ses #9
+
+Revision due in Ses #12
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-14
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Gustave Flaubert
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due in Ses #15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-19
+{{< tdclose >}}
+{{< tdopen >}}
+Kate Chopin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-24
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 4 due in Ses #20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Alistair MacLeod
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 5 and final portfolio due in Ses #26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

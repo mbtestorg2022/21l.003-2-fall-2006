@@ -28,22 +28,207 @@ MacLeod, Alistair. _No Great Mischief_. Any edition.
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Jane Austen | Volume I of _Northanger Abbey._ |
-| 3 | Volume II of _Northanger Abbey._ |
-| 4 | _Northanger Abbey._ |
-| 5 | Workshop | &nbsp; |
-| 6-7 | Sir Walter Scott | _The Highland Window_. |
-| 8 | Workshop | &nbsp; |
-| 9-11 | Mary Shelley | _Frankenstein_. |
-| 12 | Herman Melville | Chapters 1-18 of _Typee_. |
-| 13 | Chapters 19-34, appendix, and sequel of _Typee_. |
-| 14 | _Typee_. |
-| 15-16 | Gustave Flaubert | "A Simple heart." |
-| 17-19 | Kate Chopin | _The Awakening_. |
-| 20-22 | Virginia Woolf | "The Window." In _To the Lighthouse_. |
-| 23 | "Time Passes." In _To the Lighthouse_. |
-| 24 | "The Lighthouse." In _To the Lighthouse_. |
-| 25-26 | Alistair MacLeod | _No Great Mischief._
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen
+{{< tdclose >}}
+{{< tdopen >}}
+Volume I of _Northanger Abbey._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Volume II of _Northanger Abbey._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Northanger Abbey._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Sir Walter Scott
+{{< tdclose >}}
+{{< tdopen >}}
+_The Highland Window_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Shelley
+{{< tdclose >}}
+{{< tdopen >}}
+_Frankenstein_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1-18 of _Typee_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 19-34, appendix, and sequel of _Typee_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Typee_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Gustave Flaubert
+{{< tdclose >}}
+{{< tdopen >}}
+"A Simple heart."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-19
+{{< tdclose >}}
+{{< tdopen >}}
+Kate Chopin
+{{< tdclose >}}
+{{< tdopen >}}
+_The Awakening_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-22
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf
+{{< tdclose >}}
+{{< tdopen >}}
+"The Window." In _To the Lighthouse_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+"Time Passes." In _To the Lighthouse_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+"The Lighthouse." In _To the Lighthouse_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Alistair MacLeod
+{{< tdclose >}}
+{{< tdopen >}}
+_No Great Mischief._
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
